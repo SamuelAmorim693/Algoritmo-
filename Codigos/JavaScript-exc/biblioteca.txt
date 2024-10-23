@@ -1,0 +1,9 @@
+window.document.body.innerHTML 
+
+<br> - quebra de linha
+
+<b> - negrito
+
+length - conta quantos caracteres a frase ou palavra
+
+Math. sqrt() - calcula a raiz quadrda
