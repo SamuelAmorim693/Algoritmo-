@@ -1,9 +1,31 @@
 window.document.body.innerHTML 
 
-<br> - quebra de linha
+<br> - Quebra de linha
 
-<b> - negrito
 
-length - conta quantos caracteres a frase ou palavra
+<b> - Negrito
 
-Math. sqrt() - calcula a raiz quadrda
++= - Separação das linhas
+
+// - Anotação pessoal em linha 
+
+/* Anotação pessoal em linhas */ 
+
+
+var.length - Conta quantos caracteres a frase ou palavra
+
+
+Math.sqrt() - Calcula a raiz quadrda
+
+
+Math.round() - Arredonda o valor para baixo 
+
+
+parseInt() - Arredonda o valor para cima
+
+
+var[1] - Colocar a variavel em vetor, disponibiliza a navegação por caracter 
+
+indexOf (1°)  &  lestindexOf (Ultimo) - Pesquisa um objeto especifico e retorna um indice 
+
+var.toFixed() - limita as casas decimais de um valor 

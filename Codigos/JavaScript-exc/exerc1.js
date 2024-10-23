@@ -5,3 +5,4 @@ window.document.body.innerHTML += `A segunda letra do nome e:  ${nome[1]}<br>`
 window.document.body.innerHTML += `A o primeiro indice da letra a do nome é: ${nome.indexOf('a')}<br>` 
 window.document.body.innerHTML += `A o ultimo indice da letra a do nome é: ${nome.lestindexOf('a')}<br>` 
 
+    
