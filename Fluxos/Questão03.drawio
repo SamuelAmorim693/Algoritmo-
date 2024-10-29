@@ -1,0 +1,65 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="QLX9t0X-HIm87hFIBvYB">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f4K1q2iKFPlopTxNNtFQ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4K1q2iKFPlopTxNNtFQ-1" target="f4K1q2iKFPlopTxNNtFQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4K1q2iKFPlopTxNNtFQ-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="20" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f4K1q2iKFPlopTxNNtFQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4K1q2iKFPlopTxNNtFQ-2" target="f4K1q2iKFPlopTxNNtFQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f4K1q2iKFPlopTxNNtFQ-2" value="real =&amp;nbsp; numero" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f4K1q2iKFPlopTxNNtFQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4K1q2iKFPlopTxNNtFQ-3" target="f4K1q2iKFPlopTxNNtFQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4K1q2iKFPlopTxNNtFQ-3" value="Escreva(&quot;Informe um numero inteiro entre 1 e 10 &quot;)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="264.5" y="160" width="299" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="f4K1q2iKFPlopTxNNtFQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4K1q2iKFPlopTxNNtFQ-4" target="f4K1q2iKFPlopTxNNtFQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4K1q2iKFPlopTxNNtFQ-4" value="Leia(numero)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f4K1q2iKFPlopTxNNtFQ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4K1q2iKFPlopTxNNtFQ-8" target="f4K1q2iKFPlopTxNNtFQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4K1q2iKFPlopTxNNtFQ-8" value="Se" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f4K1q2iKFPlopTxNNtFQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4K1q2iKFPlopTxNNtFQ-10" target="f4K1q2iKFPlopTxNNtFQ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4K1q2iKFPlopTxNNtFQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f4K1q2iKFPlopTxNNtFQ-10" target="f4K1q2iKFPlopTxNNtFQ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4K1q2iKFPlopTxNNtFQ-10" value="num &amp;lt;=0 ou &amp;gt;10" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="475" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="f4K1q2iKFPlopTxNNtFQ-12" value="Escreva(&quot;O numero informado foi &quot;, numero, &quot; e não esta entre 1 e 10&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;)&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="470" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="f4K1q2iKFPlopTxNNtFQ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4K1q2iKFPlopTxNNtFQ-15" target="f4K1q2iKFPlopTxNNtFQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4K1q2iKFPlopTxNNtFQ-15" value="Senão" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="630" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f4K1q2iKFPlopTxNNtFQ-16" value="Escreva(&quot;O numero informado foi &quot;, numero, &quot; e está entre 1 e 10&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;)&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="770" width="170" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: #27272a;
+    display: flex;
+    padding: 30px;
+    
+    
+}
+.altura{
+    height: 200px;
+}
+.largurapi{
+    width: 150px;
+        
+}
+.flexit{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.flexim{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+
+}
+.teste{
+    display: flex;
+}
+.imgjuke{
+    width: 290px;
+    height: 150x;
+}
+
+nav a{
+    color:  #fef08a;
+    text-decoration: none;
+    margin-left: 100px;
+    margin-right: 50px;
+    font-size: 20px
+
+}
+nav{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    width: 100%;
+}

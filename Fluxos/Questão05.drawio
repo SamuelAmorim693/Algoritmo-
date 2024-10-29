@@ -1,0 +1,139 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="bUyKRkV1_Lp7xrr5r53f">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-1" target="C-vBmrR7CUEPBJbPY0k_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-2" target="C-vBmrR7CUEPBJbPY0k_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-2" value="real peso&amp;nbsp;&lt;div&gt;real altura&lt;/div&gt;&lt;div&gt;real imc&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-4" target="C-vBmrR7CUEPBJbPY0k_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-4" value="escreva(&quot;Informe sua altura:&quot;)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="30" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-6" target="C-vBmrR7CUEPBJbPY0k_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-6" value="leia(altura)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-8" target="C-vBmrR7CUEPBJbPY0k_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-8" value="escreva(&quot;Agora informe seu peso:&quot;)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="170" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-10" target="C-vBmrR7CUEPBJbPY0k_-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-10" value="leia(peso)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-16" target="C-vBmrR7CUEPBJbPY0k_-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-16" value="imc = peso/(altura*altura)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="290" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-18" target="C-vBmrR7CUEPBJbPY0k_-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-18" value="se{ imc &amp;lt; 18,5&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;}&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="260" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-20" target="C-vBmrR7CUEPBJbPY0k_-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-20" target="C-vBmrR7CUEPBJbPY0k_-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-20" value="escreva&quot;O seu grau de obesidade e 0 e sua classificação e magreza&quot;)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="425" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-23" target="C-vBmrR7CUEPBJbPY0k_-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-23" value="senão se{ imc &amp;lt;= 24,9&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;}&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="420" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-24" target="C-vBmrR7CUEPBJbPY0k_-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-24" target="C-vBmrR7CUEPBJbPY0k_-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-24" value="escreva(&quot;O seu grau de obesidade e 0 e sua classificação e normal&quot;)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="597.5" width="150" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-26" target="C-vBmrR7CUEPBJbPY0k_-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-26" value="senão se{ imc &amp;lt;= 29,9&lt;span style=&quot;background-color: initial;&quot;&gt;}&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="595" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-27" target="C-vBmrR7CUEPBJbPY0k_-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-27" target="C-vBmrR7CUEPBJbPY0k_-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-27" value="escreva(&quot;O seu grau de obesidade e equivalente a 1 e sua classificação e sobrepeso&quot;)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="765" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-33" target="C-vBmrR7CUEPBJbPY0k_-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-33" value="senão se{ imc &amp;lt;= 39,9&lt;span style=&quot;background-color: initial;&quot;&gt;}&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="506" y="760" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-34" target="C-vBmrR7CUEPBJbPY0k_-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-34" target="C-vBmrR7CUEPBJbPY0k_-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-34" value="escreva(&quot;O seu grau de obesidade e equivalente a 2 e sua classificação e obesidade&quot;)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="910" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-37" target="C-vBmrR7CUEPBJbPY0k_-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-37" value="senão se" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="905" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vBmrR7CUEPBJbPY0k_-38" target="C-vBmrR7CUEPBJbPY0k_-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-38" value="escreva(&quot;O seu grau de obesidade e equivalente a 3 e sua classificação e obesidade grave&quot;)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1050" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-40" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1065" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-42" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="925" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-43" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="615" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-44" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="780" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vBmrR7CUEPBJbPY0k_-45" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
